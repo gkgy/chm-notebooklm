@@ -26,3 +26,6 @@ notebooklm最高能一次性放入50个文件。
 点击转换就可以使用了
 
 ![image.png](https://cos-1253343353.cos.ap-guangzhou.myqcloud.com/img/20251209105227.png)
+
+
+![image.png](https://cos-1253343353.cos.ap-guangzhou.myqcloud.com/img/20251209105744.png)
